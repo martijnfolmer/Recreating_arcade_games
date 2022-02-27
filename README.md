@@ -5,9 +5,10 @@ This repository is where I store my recreation of simple arcade games in various
 List of games so far:
 - Unity
   - Pong
+- Python / Pygame
+  - Tetris   
 
 List of games on the ToDo list:
-- Tetris
 - minesweeper
 - space invaders
 - snake
